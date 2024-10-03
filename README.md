@@ -5,4 +5,5 @@
 
 ### About Me
 I'm a software engineer trying out precise control systems. Currently doing stability and efficiency to drone flight.✨  
-I've ventured into ROS a little bit,  
+I've ventured into ROS a little bit, 
+I know how satelittes work, working on getting my hands on one
